@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to the code of: I'm Jenery
 
-<!--
-**JeneryBautistaCanul/JeneryBautistaCanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate in events related to Methematics, Programming and UI/UX Design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with with topics related to Artificial Intelligence.
+
+- 💬 Ask me about Programming, Technology, Mathematics and Desing.
+
+- 📫 How to reach me: jenerybautistacanul@gmail.com.
+
+- 😄 Pronouns: She / Her.
+
+- ⚡ Fun fact: I love dancing, listening to music and seeing new places.
