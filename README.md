@@ -5,15 +5,15 @@ I'm **[Jenery Bautista](https://www.linkedin.com/in/jenery-bautista-b51819229/)*
 ## Skills
 
 ### Programming Languages 💻
-| [<img src="assets/python.png" title="python" alt="python" width="40">](https://www.python.org/) | [<img src="assets/html.png" title="html" alt="html" width="40">]() | [<img src="assets/css.png" title="css" alt="css" width="40">]() | [<img src="assets/javascript.png" title="js" alt="js" width="40">](https://www.javascript.com/) |
+| [<img src="assets/python.png" title="Python" alt="python" width="40">](https://www.python.org/) | [<img src="assets/html.png" title="Hhtml" alt="html" width="40">]() | [<img src="assets/css.png" title="Css" alt="css" width="40">]() | [<img src="assets/javascript.png" title="Js" alt="js" width="40">](https://www.javascript.com/) |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 ### Databases 💾
-| [<img src="assets/mysql.png" title="MySql" alt="MySql" width="40">](https://www.mysql.com/) | [<img src="assets/myadmin.png" title="MyAdmin" alt="MyAdmin" width="40">](https://www.phpmyadmin.net/) | [<img src="assets/oracle.png" title="oracle" alt="oracle" width="40">](https://www.oracle.com/) |
+| [<img src="assets/mysql.png" title="MySql" alt="mysql" width="40">](https://www.mysql.com/) | [<img src="assets/myadmin.png" title="MyAdmin" alt="myadmin" width="40">](https://www.phpmyadmin.net/) | [<img src="assets/oracle.png" title="Oracle" alt="oracle" width="40">](https://www.oracle.com/) |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 
 ### Tools & other technologies 🛠
-| [<img src="assets/git.png" title="Git" alt="Git" width="40">]([https://code.visualstudio.com/](https://git-scm.com/)) | [<img src="assets/vscode.png" title="VSCode" alt="VSCode" width="40">](https://code.visualstudio.com/) |
+| [<img src="assets/git.png" title="Git" alt="git" width="40">]([https://code.visualstudio.com/](https://git-scm.com/)) | [<img src="assets/vscode.png" title="VSCode" alt="vscode" width="40">](https://code.visualstudio.com/) |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 
 ## Facts
