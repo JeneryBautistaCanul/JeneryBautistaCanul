@@ -1,6 +1,6 @@
 # Welcome to the code of 🖥️🖱️
 
-I'm **[Jenery Bautista](https://www.linkedin.com/in/jenery-bautista-b51819229/)**, passionate about programming and creative design. My focus lies in crafting innovative digital experiences where programming intertwines with a creative vision to breathe life into unique and functional designs. My aim is to turn ideas into reality through programming and design, creating products and websites that captivate users and provide effective solutions."
+I'm **[Jenery Bautista](https://www.linkedin.com/in/jenery-bautista-b51819229/)**, passionate about programming and creative design. My focus lies in crafting innovative digital experiences where programming intertwines with a creative vision to breathe life into unique and functional designs. My aim is to turn ideas into reality through programming and design, creating products and websites that captivate users and provide effective solutions.
 
 ## Skills
 
@@ -22,7 +22,7 @@ I'm **[Jenery Bautista](https://www.linkedin.com/in/jenery-bautista-b51819229/)*
 
 - 🤝🏼 I'm looking to collaborate on: **Research projects and as a mentor in technology.**
 
-- 🤔 I need help with: **Social service/Professional Internship and/or Freelance opportunities.**
+- 🤔 I'm looking for: **Social service/Professional Internship and/or Freelance opportunities.**
 
 - 💬 Ask me about: **Anything you'd like to know about me, my projects, or my code.**
 
