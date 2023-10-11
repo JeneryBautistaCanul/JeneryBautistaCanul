@@ -5,7 +5,7 @@ I'm **[Jenery Bautista](https://www.linkedin.com/in/jenery-bautista-b51819229/)*
 ## Skills
 
 ### Programming Languages 💻
-| [<img src="assets/python.png" title="Python" alt="python" width="40">](https://www.python.org/) | [<img src="assets/html.png" title="Hhtml" alt="html" width="40">]() | [<img src="assets/css.png" title="Css" alt="css" width="40">]() | [<img src="assets/javascript.png" title="Js" alt="js" width="40">](https://www.javascript.com/) |
+| [<img src="assets/python.png" title="Python" alt="python" width="40">](https://www.python.org/) | [<img src="assets/html.png" title="Html" alt="html" width="40">]() | [<img src="assets/css.png" title="Css" alt="css" width="40">]() | [<img src="assets/javascript.png" title="Js" alt="js" width="40">](https://www.javascript.com/) |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 ### Databases 💾
@@ -22,7 +22,7 @@ I'm **[Jenery Bautista](https://www.linkedin.com/in/jenery-bautista-b51819229/)*
 
 - 🤝🏼 I'm looking to collaborate on: **Research projects and as a mentor in technology.**
 
-- 🤔 I'm looking for: **Social service/Professional Internship and/or Freelance opportunities.**
+- 🤔 I'm looking for: **Social service/Professional Internship and Freelance opportunities.**
 
 - 💬 Ask me about: **Anything you'd like to know about me, my projects, or my code.**
 
