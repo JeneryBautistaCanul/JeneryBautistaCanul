@@ -1,4 +1,4 @@
-#Welcome to the code of 🖥️🖱️
+# Welcome to the code of 🖥️🖱️
 
 I'm **[Jenery](https://www.linkedin.com/in/jenery-bautista-b51819229/)**, passionate about programming and UI/UX. My focus lies in creating innovative digital experiences where programming intertwines with a creative vision to bring unique and functional designs to life. My goal is to turn ideas into reality through programming and design, crafting products and websites that captivate users and provide effective solutions.
 
